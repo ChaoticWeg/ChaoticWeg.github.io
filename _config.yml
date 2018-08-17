@@ -1,9 +1,10 @@
+encoding: utf-8
+
 # Site settings
 title: ChaoticWeg
 email: shawn@chaoticweg.cc
-description: ChaoticWeg
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chaoticweg.cc" # the base hostname & protocol for your site, e.g. http://example.com
+description: Website
+url: "https://chaoticweg.cc"
 twitter_username: ChaoticWeg
 github_username:  ChaoticWeg
 
@@ -12,4 +13,3 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
