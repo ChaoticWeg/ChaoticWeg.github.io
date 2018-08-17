@@ -8,17 +8,32 @@ layout: default
     max-width: 600px;
     text-align: center;
   }
-  h1 {
+  .container h1 {
     margin: 30px 0;
     font-size: 4em;
     line-height: 1;
     letter-spacing: -1px;
+  }
+  .container ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  .container li {
+    display: inline;
+    list-style-type: none;
+    padding: 1em 2em;
   }
 </style>
 
 <div class="container">
   <h1>404</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <h3>Page not found :(</h3>
+  <p>Couldn't find what you're looking for. Maybe one of these would help?</p>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/about">About</a></li>
+  </ul>
 </div>
