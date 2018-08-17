@@ -22,5 +22,5 @@ permalink: /
   <dd>A Discord webhook interface written in 100% Bash.</dd>
     
   <dt><a href="//github.com/ChaoticWeg/elvui.net">elvui.net</a></dt>
-  <dd>A WinForms GUI for installing/updating <a href="https://www.tukui.org/download.php?ui=elvui">ElvUI</a></dd>
+  <dd>A WinForms GUI for installing/updating <a href="https://www.tukui.org/download.php?ui=elvui">ElvUI</a>.</dd>
 </dl>
