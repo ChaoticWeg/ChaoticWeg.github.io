@@ -23,4 +23,7 @@ permalink: /
     
   <dt><a href="//chaoticweg.cc/elvui.net">elvui.net</a></dt>
   <dd>A WinForms GUI for installing/updating <a href="https://www.tukui.org/download.php?ui=elvui">ElvUI</a>.</dd>
+
+  <dt><a href="//chaoticweg.cc/slack-deletefiles">slack-deletefiles</a></dt>
+  <dd>A Python script that deletes old files from a Slack team.</dd>
 </dl>
